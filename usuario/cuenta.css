@@ -1,0 +1,25 @@
+body{
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+article{
+	/*margin-left: 5px;*/
+}
+h2{
+	font-size: 75px;
+	line-height: 1.65; 
+	font-family: arial;
+}
+
+span{
+	font-family: 'Changa One', cursive; 
+	font-size: 85px; 
+	font-weight: 400;
+	letter-spacing: 2px;
+}
+
+footer{
+	margin-top: auto;
+}

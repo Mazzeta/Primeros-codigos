@@ -1,0 +1,29 @@
+.sobre-nosotros{
+	font-size: 17.58px;
+	line-height: 1.4;
+}
+h3{
+	font-size: 57px;
+	font-family: arial;
+}
+
+h5{
+	font-size: 1.07em;
+}
+
+
+
+.no-me-interesa{
+	cursor: url("../multimedia/pala.png") 8 58, auto;
+	margin: 6px 0 0 4px;
+}
+
+
+
+
+
+footer.de-página-corta{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
